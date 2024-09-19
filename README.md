@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on:
 - [yt video list to MD](https://github.com/VisualDudek/yt-data-to-markdown)
-- [SOP Python](https://github.com/VisualDudek/sop-python) - my Standard Operation Procedure framework for Python
+- [SOP Python](https://github.com/VisualDudek/sop-python) - my Standard Operation Procedure framework for Python, check out gh action for AI feedback loop
 
 ### 🌱 I’m currently learning:
 - [Zig](https://github.com/VisualDudek/zig-basics)
