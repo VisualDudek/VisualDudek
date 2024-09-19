@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+🔭 I’m currently working on:
+[yt video list to MD](https://github.com/VisualDudek/yt-data-to-markdown)
+[SOP Python](https://github.com/VisualDudek/sop-python) - my Standard Operation Procedure framework for Python
+
+🌱 I’m currently learning:
+[Zig](https://github.com/VisualDudek/zig-basics)
+
+
 <!--
 **VisualDudek/VisualDudek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
