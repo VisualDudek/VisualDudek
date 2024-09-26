@@ -8,6 +8,7 @@
 
 ### 🌱 I’m currently learning:
 - [Zig](https://github.com/VisualDudek/zig-basics)
+- [Python](https://github.com/VisualDudek/python-master) - Protocols, structural subtyping
 
 
 <!--
