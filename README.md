@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔭 I’m currently working on:
-- [programming LABS](https://github.com/VisualDudek/programming-labs) - decoupling tcp echo server code using Protocols
+- [programming LABS](https://github.com/VisualDudek/programming-labs) - decoupling tcp echo server code using Protocols, tcp echo server using selectors
 - [yt video list to MD](https://github.com/VisualDudek/yt-data-to-markdown)
 - [SOP Python](https://github.com/VisualDudek/sop-python) - my Standard Operation Procedure framework for Python, check out gh action for AI feedback loop
 - [xxd clone in Zig](https://github.com/VisualDudek/zig-basics/tree/main/mini-projects/xxd-clone)
