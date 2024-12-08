@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Adent of Code 2024 [AoC](https://github.com/VisualDudek/AoC2024)
+![Personal times](https://github.com/VisualDudek/AoC2024/blob/main/personal.png)
+
 ### 🔭 I’m currently working on:
 - [programming LABS](https://github.com/VisualDudek/programming-labs) - decoupling tcp echo server code using Protocols, tcp echo server using selectors
 - [yt video list to MD](https://github.com/VisualDudek/yt-data-to-markdown)
