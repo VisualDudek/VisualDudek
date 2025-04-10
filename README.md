@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-## Adent of Code 2024 [AoC](https://github.com/VisualDudek/AoC2024)
-![Personal times](https://github.com/VisualDudek/AoC2024/blob/main/personal.png)
 
 ### 🔭 I’m currently working on:
+- [go-basics](https://github.com/VisualDudek/go-basics) - A collection of simple Go projects and exercises for learning the fundamentals.
 - [programming LABS](https://github.com/VisualDudek/programming-labs) - decoupling tcp echo server code using Protocols, tcp echo server using selectors
 - [yt video list to MD](https://github.com/VisualDudek/yt-data-to-markdown)
 - [SOP Python](https://github.com/VisualDudek/sop-python) - my Standard Operation Procedure framework for Python, check out gh action for AI feedback loop
