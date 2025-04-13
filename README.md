@@ -3,6 +3,7 @@
 
 ### 🔭 I’m currently working on:
 - [go-basics](https://github.com/VisualDudek/go-basics) - A collection of simple Go projects and exercises for learning the fundamentals.
+- [go-lings](https://github.com/VisualDudek/go_lings) - My golings. Inspired by ZigLings.
 - [programming LABS](https://github.com/VisualDudek/programming-labs) - decoupling tcp echo server code using Protocols, tcp echo server using selectors
 - [yt video list to MD](https://github.com/VisualDudek/yt-data-to-markdown)
 - [SOP Python](https://github.com/VisualDudek/sop-python) - my Standard Operation Procedure framework for Python, check out gh action for AI feedback loop
