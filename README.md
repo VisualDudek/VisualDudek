@@ -14,6 +14,9 @@
   - **Pytlings** project contains a series of tiny broken programs. By fixing them, you'll learn given topic, idea was ispired by Ziglings project that was directly inspired by the brilliant and fun rustlings project for the Rust language.
 - [F#](https://github.com/VisualDudek/fsharp)
 
+### 🌱 I’m currently exporing:
+- [VSCode Agent Mode](https://github.com/VisualDudek/go-chat-tcp-agent) - Bulding apps using Agent Mode, based on Project Requirements Document and copilot-instructions.md
+
 <!--
 **VisualDudek/VisualDudek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
