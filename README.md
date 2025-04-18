@@ -18,6 +18,9 @@
 ### 🧠 I’m currently exploring:
 - [VSCode Agent Mode](https://github.com/VisualDudek/go-chat-tcp-agent) - Bulding apps using Agent Mode, based on Project Requirements Document and copilot-instructions.md
 
+### ⚙️ Tools, frameworks
+- [Taskfile](https://github.com/VisualDudek/taskfile-playground) - A playground for testing and learning Taskfile.dev capabilities.
+
 <!--
 **VisualDudek/VisualDudek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
