@@ -22,7 +22,7 @@
 - [Taskfile](https://github.com/VisualDudek/taskfile-playground) - A playground for testing and learning Taskfile.dev capabilities.
 
 ### ⚗️💡 prototype/innovation
-- [Headlines‑Scraper](https://github.com/VisualDudek/webscraper-agent) - ⚡ Headlines‑Scraper — fetch front‑page news & excerpts in clean JSON.
+- [Headlines‑Scraper](https://github.com/VisualDudek/webscraper-agent)  — fetch front‑page news & excerpts in clean JSON.
 
 <!--
 **VisualDudek/VisualDudek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
