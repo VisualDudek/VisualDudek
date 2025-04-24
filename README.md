@@ -23,6 +23,7 @@
 
 ### ⚗️💡 prototype/innovation
 - [Headlines‑Scraper](https://github.com/VisualDudek/webscraper-agent)  — fetch front‑page news & excerpts in clean JSON.
+- [FastHTML](https://github.com/VisualDudek/fastHTML-playground) - A playground for experimenting with FastHTML
 
 <!--
 **VisualDudek/VisualDudek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
