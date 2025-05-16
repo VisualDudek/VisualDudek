@@ -20,6 +20,7 @@
 
 ### ⚙️ Tools, frameworks
 - [Taskfile](https://github.com/VisualDudek/taskfile-playground) - A playground for testing and learning Taskfile.dev capabilities.
+- [Textual](https://github.com/VisualDudek/textual-playground) - Playground for python framework Textual
 
 ### ⚗️💡 prototype/innovation
 - [Headlines‑Scraper](https://github.com/VisualDudek/webscraper-agent)  — fetch front‑page news & excerpts in clean JSON.
