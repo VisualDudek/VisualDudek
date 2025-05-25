@@ -8,6 +8,7 @@
 - [yt video list to MD](https://github.com/VisualDudek/yt-data-to-markdown) - Fetch YouTube data and saves it in a markdown file.
 - [SOP Python](https://github.com/VisualDudek/sop-python) - my Standard Operation Procedure framework for Python, check out gh action for AI feedback loop
 - [xxd clone in Zig](https://github.com/VisualDudek/zig-basics/tree/main/mini-projects/xxd-clone)
+- [Textual_YouTube_Browser](https://github.com/VisualDudek/Textual_YT_Browser) - A Python project that allows you to browse and manage YouTube videos stored in MongoDB in the cloud, using a text-based user interface built with the textual framework.
 
 ### 🌱 I’m currently learning:
 - [Zig](https://github.com/VisualDudek/zig-basics)
