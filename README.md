@@ -23,6 +23,7 @@
 - [Taskfile](https://github.com/VisualDudek/taskfile-playground) - A playground for testing and learning Taskfile.dev capabilities.
 - [Textual](https://github.com/VisualDudek/textual-playground) - Playground for python framework Textual
 - [Google GenAI SDK](https://github.com/VisualDudek/google_ai_sdk) - Playground for Google GenAI Python SDK
+- [Pydantic](https://github.com/VisualDudek/pydantic-playground) - 🧪 A lightweight Pydantic playground for experimenting with data models, validation, and parsing in Python.
 
 ### ⚗️💡 prototype/innovation
 - [Headlines‑Scraper](https://github.com/VisualDudek/webscraper-agent)  — fetch front‑page news & excerpts in clean JSON.
