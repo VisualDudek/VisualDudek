@@ -32,7 +32,7 @@
 
 ### 🧬 labs
 - [Python threading](https://github.com/VisualDudek/thread-exception-propagation) - Exception propagation in concurrency models
-- [Nonblocking Pythont](https://github.com/VisualDudek/nonblocking-python) - Explore miscellaneous od asyncio concurrency model
+- [Nonblocking Python](https://github.com/VisualDudek/nonblocking-python) - Explore miscellaneous od asyncio concurrency model
 
 <!--
 **VisualDudek/VisualDudek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
