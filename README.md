@@ -31,7 +31,7 @@
 - [FastHTML](https://github.com/VisualDudek/fastHTML-playground) - A playground for experimenting with FastHTML
 
 ### ⚗️ labs
-- [Ptyon threading](https://github.com/VisualDudek/thread-exception-propagation) - Exception propagation in concurrency models
+- [Python threading](https://github.com/VisualDudek/thread-exception-propagation) - Exception propagation in concurrency models
 - [Nonblocking Pythont](https://github.com/VisualDudek/nonblocking-python) - Explore miscellaneous od asyncio concurrency model
 
 <!--
