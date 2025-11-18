@@ -12,7 +12,7 @@
 
 ### 🌱 I’m currently learning:
 - [Zig](https://github.com/VisualDudek/zig-basics)
-- [Python](https://github.com/VisualDudek/python-master) - Protocols, structural subtyping, asyncio, abstract base class.
+- [Python master](https://github.com/VisualDudek/python-master) - Protocols, structural subtyping, asyncio, abstract base class.
   - **Pytlings** project contains a series of tiny broken programs. By fixing them, you'll learn given topic, idea was ispired by Ziglings project that was directly inspired by the brilliant and fun rustlings project for the Rust language.
 - [F#](https://github.com/VisualDudek/fsharp)
 
