@@ -2,6 +2,7 @@
 
 
 ### 🔭 I’m currently working on:
+- [python-algoexpert](https://github.com/VisualDudek/python-algoexpert) - Algoexpert questions solved in Python.
 - [go-basics](https://github.com/VisualDudek/go-basics) - A collection of simple Go projects and exercises for learning the fundamentals.
 - [go-lings](https://github.com/VisualDudek/go_lings) - My golings. Inspired by ZigLings.
 - [programming LABS](https://github.com/VisualDudek/programming-labs) - decoupling tcp echo server code using Protocols, tcp echo server using selectors
