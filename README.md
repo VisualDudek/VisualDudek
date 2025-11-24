@@ -21,7 +21,7 @@
 - [VSCode Agent Mode](https://github.com/VisualDudek/go-chat-tcp-agent) - Bulding apps using Agent Mode, based on Project Requirements Document and copilot-instructions.md
 
 ### ⚙️ Tools, frameworks
-- [Taskfile](https://github.com/VisualDudek/taskfile-playground) - A playground for testing and learning Taskfile.dev capabilities.
+- [Just-Sytem](https://github.com/VisualDudek/just-system) - handy way to save and run project-specific commands.
 - [Textual](https://github.com/VisualDudek/textual-playground) - Playground for python framework Textual
 - [Google GenAI SDK](https://github.com/VisualDudek/google_ai_sdk) - Playground for Google GenAI Python SDK
 - [Pydantic](https://github.com/VisualDudek/pydantic-playground) - 🧪 A lightweight Pydantic playground for experimenting with data models, validation, and parsing in Python.
