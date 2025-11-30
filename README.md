@@ -2,6 +2,7 @@
 
 
 ### 🔭 I’m currently working on:
+- [Advent of Code Python](https://github.com/VisualDudek/aoc-python) - Python solutions for Advent of Code challenges
 - [python-design-patters](https://github.com/VisualDudek/python-design-patterns) - Collection of software design patterns implemented in Python.
 - [python-algoexpert](https://github.com/VisualDudek/python-algoexpert) - Algoexpert questions solved in Python.
 - [go-basics](https://github.com/VisualDudek/go-basics) - A collection of simple Go projects and exercises for learning the fundamentals.
