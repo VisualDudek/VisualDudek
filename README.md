@@ -2,6 +2,7 @@
 
 
 ### 🔭 I’m currently working on:
+- [SOP Linux](https://github.com/VisualDudek/sop-linux) - My Linux setup
 - [Advent of Code Python](https://github.com/VisualDudek/aoc-python) - Python solutions for Advent of Code challenges
 - [python-design-patters](https://github.com/VisualDudek/python-design-patterns) - Collection of software design patterns implemented in Python.
 - [python-algoexpert](https://github.com/VisualDudek/python-algoexpert) - Algoexpert questions solved in Python.
