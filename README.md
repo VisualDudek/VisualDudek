@@ -2,6 +2,7 @@
 
 
 ### 🔭 I’m currently working on:
+- [Arcade tutorial](https://github.com/VisualDudek/arcade-tutorial) - python 2D games library
 - [SOP Linux](https://github.com/VisualDudek/sop-linux) - My Linux setup
 - [Advent of Code Python](https://github.com/VisualDudek/aoc-python) - Python solutions for Advent of Code challenges
 - [python-design-patters](https://github.com/VisualDudek/python-design-patterns) - Collection of software design patterns implemented in Python.
