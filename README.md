@@ -2,6 +2,7 @@
 
 ### 🔭 I’m currently working on
 
+- [Typing Trainer CLI](https://github.com/VisualDudek/typing-trainer) - CLI typing speed trainer, vibe coded in Claude
 - [Arcade tutorial](https://github.com/VisualDudek/arcade-tutorial) - python 2D games library
 - [SOP Linux](https://github.com/VisualDudek/sop-linux) - My Linux setup
 - [Prompt Files](https://github.com/VisualDudek/prompt_files) - My Prompt files, Custom Agents and Skills.
