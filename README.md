@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [SOP](https://github.com/VisualDudek/SOP) - one SOP for all (working on repo sstructure)
+[Learn Rust](https://github.com/VisualDudek/learn_Rust)
 
 ### 🔭 I’m currently working on
 
