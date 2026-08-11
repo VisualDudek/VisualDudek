@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[SOP](https://github.com/VisualDudek/SOP) - one SOP for all (working on repo sstructure)
+
 ### 🔭 I’m currently working on
 
 - [Typing Trainer CLI](https://github.com/VisualDudek/typing-trainer) - CLI typing speed trainer, vibe coded in Claude
