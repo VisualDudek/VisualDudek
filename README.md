@@ -2,6 +2,7 @@
 
 - [SOP](https://github.com/VisualDudek/SOP) - one SOP for all (working on repo sstructure)
 - [Learn Rust](https://github.com/VisualDudek/learn_Rust)
+- [My Rust Notes (mdBook)](https://github.com/VisualDudek/my_rust_notes)
 
 ### 🔭 I’m currently working on
 
